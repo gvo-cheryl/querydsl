@@ -1,4 +1,4 @@
-<h2>QueryDsl</h2>
+<h2>QueryDSL</h2>
 
 설정 이후
 Gradle Project (View -> Tool Windows -> Gradle Project)을 열어 <br>
